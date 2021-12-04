@@ -41,3 +41,4 @@
       
       lines(c$t, yrecta, col= "BLUE")
       
+############ esta es la rama de prueba uwU
